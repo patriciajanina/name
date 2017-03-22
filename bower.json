@@ -1,0 +1,22 @@
+{
+  "name": "init",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Patrycja Sacharczuk <pati.janina@mail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jquery-ui": "^1.12.1",
+    "jquery": "^3.2.1"
+  }
+}
